@@ -24,7 +24,7 @@ class Dhananjay(SoftwareEngineer):
     builds    = ["Full-stack web apps", "REST APIs", "AI / LLM tools"]
 
     stack     = {
-        "backend":  ["Python", "FastAPI", "SQL", "PostgreSQL"],
+        "backend":  ["Python", "FastAPI", "C#", ".NET", "SQL Server", "PostgreSQL"],
         "frontend": ["React", "TypeScript", "JavaScript"],
         "ai":       ["LangGraph", "RAG", "MCP", "Claude", "Gemini"],
         "cloud":    ["Azure", "AWS", "Firebase", "GitHub Actions"],
@@ -46,8 +46,8 @@ class Dhananjay(SoftwareEngineer):
 ### 🛠️ Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,react,ts,js,postgres,nodejs,html,css&perline=9" /><br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,azure,aws,firebase,githubactions,git,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,react,ts,js,cs,dotnet,postgres,nodejs&perline=9" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,azure,aws,firebase,githubactions,git,vscode&perline=9" />
 </p>
 
 ---
