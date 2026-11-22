@@ -1,6 +1,5 @@
-<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dhananjay%20(DJ)&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20.NET%20%E2%80%A2%20React%20%E2%80%A2%20Privacy-first%20AI&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+  <img src="./banner.svg" width="100%" alt="Dhananjay (DJ) — Full-Stack Engineer" />
 </p>
 
 <p align="center">
@@ -94,6 +93,8 @@ Self-hosted watch parties for up to 4: synced playback, a live camera + mic side
 ! Open to Software Engineer · Full-Stack · .NET roles (remote-friendly)
 ```
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=110&section=footer" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=1200&color=8B949E&center=true&vCenter=true&width=500&lines=%2F%2F+thanks+for+stopping+by;%2F%2F+let%27s+build+something+together+%F0%9F%9A%80" alt="footer" />
 </p>
