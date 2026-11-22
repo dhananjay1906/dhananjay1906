@@ -25,18 +25,21 @@
   <text x="450" y="24" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="12" fill="#8b949e">dj@dev: ~/dhananjay1906</text>
 
   <g font-family="JetBrains Mono, Consolas, Menlo, monospace">
-    <text x="36" y="76" font-size="16" fill="#8b949e"><tspan fill="#34d399">➜</tspan> <tspan fill="#60a5fa">~</tspan> dotnet run --project Dhananjay</text>
+    <text x="36" y="76" font-size="16" fill="#8b949e"><tspan fill="#34d399">➜</tspan> <tspan fill="#60a5fa">~</tspan> python -m dhananjay --full-stack</text>
 
     <text x="36" y="132" font-size="44" font-weight="700" fill="url(#name)">Dhananjay (DJ)
       <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.3s" fill="freeze"/>
     </text>
 
-    <text x="38" y="168" font-size="16" fill="#c9d1d9" opacity="0">Full-Stack Engineer  ·  C# / .NET  ·  Blazor  ·  React  ·  Privacy-first AI
+    <text x="38" y="168" font-size="16" fill="#c9d1d9" opacity="0">Full-Stack Engineer  ·  Python  ·  FastAPI  ·  React  ·  AI / LLM apps
       <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.9s" fill="freeze"/>
     </text>
 
-    <text x="36" y="204" font-size="16" fill="#8b949e" opacity="0"><tspan fill="#34d399">✔</tspan> Build succeeded  ·  0 warnings  ·  open to work <tspan fill="#a78bfa">▋<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/></tspan>
+    <text x="36" y="204" font-size="16" fill="#8b949e" opacity="0"><tspan fill="#34d399">✔</tspan> all tests passed  ·  0 failed  ·  open to work
       <animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.5s" fill="freeze"/>
     </text>
+    <rect x="522" y="190" width="10" height="18" fill="#a78bfa" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.01;0.5;0.51;1" dur="1s" begin="1.6s" repeatCount="indefinite"/>
+    </rect>
   </g>
 </svg>
